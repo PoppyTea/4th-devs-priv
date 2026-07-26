@@ -1,4 +1,20 @@
-<img src="assets/logo.svg" alt="AI_devs 4: Builders" width="200">
+# Czym są pliki w tym zeszycie notebookLM?
+Zeszyt ten składa się z połączonych w większe chunki, plików z repozytorium github. Repozytorrium składa się z przykładów kodu związanego z lekcjami kursu `AI_Devs 4:Builders`.
+
+## Metadane
+
+### **`hashes.json.txt`**
+Dokument `hashes.json.txt` zawiera nazwy plków, które zostały scalomne, połączone z `hashami` służącymi jako UUID pozwalającymi na identyfikację odpowiednich  treści w wielkich chunkach tekstu w markdown. 
+Każda linijka `hashes.jonson.txt` zawiera parę `key(Path_to_file):value(UUID)`
+
+Na przykład:
+
+```json file="hashes.json.txt"
+"05_04_api/.mcp-servers.json": "da53b442b9966d0d00359a5ad8e9283f",
+```
+odnosi się do pliku  `.mcp-servers.json` o 
+
+# Treść README.md z repozytoorium
 
 ## Requirements
 
