@@ -6,6 +6,6 @@
     "dev": "node --env-file=.env --watch app.js"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.12.1"
+    "@modelcontextprotocol/sdk": "^1.32.0"
   }
 }
