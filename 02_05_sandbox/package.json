@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "@jitl/quickjs-wasmfile-release-asyncify": "^0.31.0",
-    "@modelcontextprotocol/sdk": "^1.25.1",
+    "@modelcontextprotocol/sdk": "^1.32.0",
     "openai": "^6.15.0",
     "quickjs-emscripten-core": "^0.31.0",
     "gray-matter": "^4.0.3",
