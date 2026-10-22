@@ -6,7 +6,7 @@
     "dev": "bun --watch src/index.ts"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.26.0",
+    "@modelcontextprotocol/sdk": "^1.32.0",
     "openai": "^6.17.0"
   },
   "devDependencies": {
