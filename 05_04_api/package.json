@@ -29,7 +29,7 @@
     "gray-matter": "^4.0.3",
     "hono": "^4.12.9",
     "openai": "^6.33.0",
-    "zod": "^4.3.6"
+    "zod": "^4.6.7"
   },
   "devDependencies": {
     "@biomejs/biome": "2.4.9",
